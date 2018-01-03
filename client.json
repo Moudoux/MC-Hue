@@ -1,0 +1,11 @@
+{
+
+    "name":"MC-Hue",
+    "website":"https://github.com/Moudoux/MC-Hue",
+    "author":"Deftware",
+    "minversion":12.4,
+    "version":1,
+    "main":"me.deftware.mchue.Main",
+    "updateLinkOverride": false
+
+}

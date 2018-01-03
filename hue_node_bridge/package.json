@@ -1,0 +1,29 @@
+{
+  "name": "hue_node_bridge",
+  "version": "1.0.0",
+  "description": "A bridge for controlling Philips Hue lights from other locations using a web server",
+  "main": "index.js",
+  "dependencies": {
+    "nconf": "^0.10.0",
+    "philips-hue": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moudoux/MC-Hue.git"
+  },
+  "keywords": [
+    "Hue",
+    "Minecraft",
+    "EMC"
+  ],
+  "author": "Deftware",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Moudoux/MC-Hue/issues"
+  },
+  "homepage": "https://github.com/Moudoux/MC-Hue#readme"
+}
